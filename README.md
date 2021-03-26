@@ -1,4 +1,7 @@
 # UIC-barcode
+
+[![CircleCI](https://circleci.com/gh/irrationalism/UIC-barcode/tree/circleci-project-setup.svg?style=shield )](https://circleci.com/gh/irrationalism/UIC-barcode/tree/circleci-project-setup)
+
 implementation of FCB barcode for arail tickets as specified in the IRS 90918-9
 
 The implementation provides a java API for the ticket an encoding / decoding functions to convert 
